@@ -1,0 +1,18 @@
+menu:
+  Home: /
+  Archives: /archives
+  # Categories: /categories
+  # Tags: /tags
+  Project: /project
+  About Me: /aboutme
+
+# duoshuo comment
+duoshuo: false
+duoshuo_name:
+
+# disqus comment
+disqus: false
+disqus_shortname:
+
+# google analytics
+googleTrackId:
